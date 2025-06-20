@@ -1,5 +1,6 @@
 # Smart Order Router Backtest (Cont-Kukanov)
-
+## Vid Link
+- https://drive.google.com/file/d/1owk3p3OetB9tSrzasqXD--_Iw9yM0STC/view?usp=sharing
 ## Overview
 This project simulates and backtests a Smart Order Router (SOR) using the Cont & Kukanov cost model. It streams market data via Kafka, benchmarks against basic execution strategies, and is deployable on AWS EC2.
 
