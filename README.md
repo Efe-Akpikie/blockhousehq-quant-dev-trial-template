@@ -51,7 +51,6 @@ This project simulates and backtests a Smart Order Router (SOR) using the Cont &
 
 ## Notes
 - Adjust `KAFKA_BOOTSTRAP_SERVERS` in scripts if running remotely.
-- For Dockerized setup, see [Docker instructions](https://hub.docker.com/r/wurstmeister/kafka/) (optional).
 
 ## Output Example
 ```
