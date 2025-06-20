@@ -1,0 +1,35 @@
+{
+  "best_parameters": {
+    "lambda_over": null,
+    "lambda_under": null,
+    "theta_queue": null
+  },
+  "optimized": {
+    "executed_size": 288,
+    "underfill": 4712,
+    "total_cash": 64175.04,
+    "avg_fill_px": 222.83
+  },
+  "baselines": {
+    "best_ask": {
+      "executed_size": 288,
+      "total_cash": 64175.04,
+      "avg_fill_px": 222.83
+    },
+    "twap": {
+      "executed_size": 2513,
+      "total_cash": 560341.1,
+      "avg_fill_px": 222.977
+    },
+    "vwap": {
+      "executed_size": 288,
+      "total_cash": 64175.04,
+      "avg_fill_px": 222.83
+    }
+  },
+  "savings_vs_baselines_bps": {
+    "best_ask": 0.0,
+    "twap": 8854.71,
+    "vwap": 0.0
+  }
+}
